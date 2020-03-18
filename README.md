@@ -1,1 +1,1 @@
-Assignment in React without using Redux
+React state management assignment without using Redux
